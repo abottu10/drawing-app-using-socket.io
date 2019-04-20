@@ -1,0 +1,23 @@
+{
+  "name": "drawing-app-using-socket.io",
+  "version": "1.0.0",
+  "description": "App where people can draw together using socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abottu10/drawing-app-using-socket.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abottu10/drawing-app-using-socket.io/issues"
+  },
+  "homepage": "https://github.com/abottu10/drawing-app-using-socket.io#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
